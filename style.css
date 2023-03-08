@@ -82,10 +82,10 @@ main {
 .plan-container  a{
   position: absolute;
   right: 20px;
-  color: var(--Dark-blue);
+  color: var(--bright-blue);
 }
 .plan-container  a:hover{
-  color: var(--bright-blue);
+  opacity: 0.8;
 }
 .sr-only {
   position: absolute;
